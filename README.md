@@ -1,2 +1,2 @@
 # Gramener-Case-Study
-This project is a case study of a consumer finance company where we used EDA for understanding of risk analytics in banking system.
+Solving this case study will give us an idea about how real business problems are solved using EDA. In this project, apart from applying the techniques we have learnt in EDA, we  also developed a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.Technology Used in this Python and it's packages like "Pandas", "Numpy", "Seaborn" and "Matplotlib"
